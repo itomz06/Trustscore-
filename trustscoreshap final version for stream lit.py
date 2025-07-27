@@ -25,7 +25,6 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
-from google.colab import files
 
 from trustscore_batch_analyzer import TrustScoreAnalyzer, create_sample_data
 
