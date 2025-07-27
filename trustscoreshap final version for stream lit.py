@@ -16,8 +16,6 @@ Original file is located at
     https://colab.research.google.com/drive/1m-Qmkz2NRiyCbJ31nTmTjZIabPsq926b
 """
 
-!pip install shap
-
 # ========== 🔁 IMPORTS ========== #
 import pandas as pd
 import joblib
